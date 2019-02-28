@@ -65,4 +65,10 @@ figcaption {
 #details a:hover {
   color: black;
   text-decoration: underline;
+  
+}
+
+#details a:acitve {
+  color: red;
+}
 }
